@@ -1,0 +1,9 @@
+db:
+  host:     "localhost"
+  port:     "5436"
+  username: "postgres"
+  dbname:   "postgres"
+  sslmode:  "disable"
+
+admin_id: 317666806
+admin_name: "Ant0niX"
